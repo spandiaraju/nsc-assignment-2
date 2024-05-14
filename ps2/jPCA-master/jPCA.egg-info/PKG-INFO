@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: jPCA
+Version: 0.0.1
+Summary: jPCA for analyzing neural state trajectories
+Home-page: https://github.com/bantin/jPCA
+Author: Benjamin Antin
+Author-email: benjaminantin1@gmail.com
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
